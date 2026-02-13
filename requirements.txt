@@ -1,0 +1,13 @@
+mlflow
+langchain
+langgraph
+langchain-openai
+langchain-ollama
+langchain-chroma
+dotenv
+pydantic
+grandalf
+ipython
+langchain-community
+ragas
+pypdf
