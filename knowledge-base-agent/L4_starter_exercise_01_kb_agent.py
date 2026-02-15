@@ -88,6 +88,10 @@ embeddings_fn = OpenAIEmbeddings (
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
+print("embeddings func------------------------------------")
+print(embeddings_fn)
+print("embeddings func------------------------------------")
+
 
 # ## 2. Load and Process Documents
 
